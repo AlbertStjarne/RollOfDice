@@ -24,6 +24,14 @@ namespace _13_RollOfDice
                 stats[sum] += 1;
             }
 
+            // display sums
+            for (int i = 2; i <= 12; i++)
+            {
+                Console.WriteLine($"Sum of {i} occured {stats[i]} times.");
+
+            }
+
+
         }
     }
 }

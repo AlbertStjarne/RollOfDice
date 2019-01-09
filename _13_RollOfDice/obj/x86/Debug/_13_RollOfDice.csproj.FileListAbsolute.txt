@@ -1,0 +1,6 @@
+/Users/albertstjarne/Udemy/Csharp_Logical_Puzzle_Games/_13_RollOfDice/_13_RollOfDice/bin/Debug/_13_RollOfDice.exe
+/Users/albertstjarne/Udemy/Csharp_Logical_Puzzle_Games/_13_RollOfDice/_13_RollOfDice/bin/Debug/_13_RollOfDice.pdb
+/Users/albertstjarne/Udemy/Csharp_Logical_Puzzle_Games/_13_RollOfDice/_13_RollOfDice/obj/x86/Debug/_13_RollOfDice.csprojAssemblyReference.cache
+/Users/albertstjarne/Udemy/Csharp_Logical_Puzzle_Games/_13_RollOfDice/_13_RollOfDice/obj/x86/Debug/_13_RollOfDice.csproj.CoreCompileInputs.cache
+/Users/albertstjarne/Udemy/Csharp_Logical_Puzzle_Games/_13_RollOfDice/_13_RollOfDice/obj/x86/Debug/_13_RollOfDice.exe
+/Users/albertstjarne/Udemy/Csharp_Logical_Puzzle_Games/_13_RollOfDice/_13_RollOfDice/obj/x86/Debug/_13_RollOfDice.pdb

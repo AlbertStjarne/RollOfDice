@@ -3,10 +3,11 @@ namespace _13_RollOfDice
 {
     public class Dies
     {
+        static Random rand = new Random();
 
         public int DieRoll()
         {
-            Random rand = new Random();
+
             return rand.Next(1, 7);
         }
 
