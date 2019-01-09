@@ -20,6 +20,8 @@ namespace _13_RollOfDice
                 var die1Value = die1.DieRoll();
                 var die2Value = die2.DieRoll();
 
+                rolls[die1Value, die2Value] += 1;
+
                 var sum = die1Value + die2Value;
                 stats[sum] += 1;
             }
@@ -31,6 +33,22 @@ namespace _13_RollOfDice
 
             }
 
+            // matrix display
+            {
+                Console.WriteLine("");
+                Console.WriteLine("\t1\t2\t3\t4\t5\t6");
+                Console.WriteLine("--------------------------------------------");
+                for (int r = 1; r <= 6; r++)
+                {
+                    Console.Write(r);
+                    for (int c = 1; c <= 6; c++)
+                    {
+                        Console.Write("\t" + rolls[r, c]);
+                    }
+                    Console.Write("\n");
+                }
+
+            }
 
         }
     }
